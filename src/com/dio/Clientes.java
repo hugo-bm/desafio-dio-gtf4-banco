@@ -1,7 +1,5 @@
 package com.dio;
-/**
- *
- * */
+
 public abstract class Clientes {
     private String nome;
     private Contatos contato;
